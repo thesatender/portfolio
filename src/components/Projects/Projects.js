@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
 import tindog from "../../Assets/Projects/tindog.png";
 import nlpMcqGeneration from "../../Assets/Projects/nlpMcqGeneration.png";
 import keeper from "../../Assets/Projects/keeper.png";
